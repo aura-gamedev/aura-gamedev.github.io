@@ -1,1 +1,3 @@
-# aura-gamedev.github.io
+# aura team
+
+Всем привет, мы команда aura!
